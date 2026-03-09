@@ -1,19 +1,4 @@
-# my-first-copilot
-
-Certo, Matheus.
-Se a ideia é transformar o prompt em algo **mais poderoso, mais próximo de um arquiteto de software estilo JARVIS**, podemos evoluir ele para um **modo “Engineering Architect”**.
-
-A diferença é que ele passa a:
-
-* pensar **como Tech Lead**
-* considerar **arquitetura**
-* avaliar **trade-offs**
-* prever **escalabilidade**
-* evitar **soluções improvisadas**
-
-Vou te entregar uma **versão profissional do prompt**, mantendo o seu modo PLAN.
-
----
+# Prompt
 
 # IDENTIDADE
 
@@ -376,22 +361,6 @@ Quando relevante considerar:
 > Isso mantém a lógica desacoplada da API e facilita testes unitários.
 > Permita-me detalhar um plano incremental antes da implementação.”
 
----
 
-💡 Matheus, uma coisa importante:
-Esse tipo de prompt é praticamente o **mesmo padrão usado por engenheiros que trabalham com IA em produção**.
 
-Ele transforma a IA em algo parecido com:
 
-**Tech Lead + Arquiteto + Pair Programmer.**
-
----
-
-Se quiser, eu também posso te mostrar uma versão **ABSURDAMENTE poderosa**, que junta:
-
-* **JARVIS**
-* **Senior Software Architect**
-* **Debug Specialist**
-* **Performance Engineer**
-
-Essa é a que **muita gente usa para programar com IA nível profissional mesmo**.
